@@ -1,0 +1,19 @@
+{
+  "name": "react-native-draw",
+  "version": "0.0.1",
+  "description": "drawing library for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromewu/react-native-draw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromewu/react-native-draw/issues"
+  },
+  "homepage": "https://github.com/jeromewu/react-native-draw#readme"
+}
